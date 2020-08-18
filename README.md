@@ -9,7 +9,7 @@ is right.
 ---
 * **Frontend**: HTML, CSS, JavaScript
 * **Languages**: Python, C++, C#, R
-* **Databases**: SQLserver, MySQ
+* **Databases**: SQLserver, MySQL
 
 ### 📈 My GitHub Stats
 ---
