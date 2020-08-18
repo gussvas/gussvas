@@ -1,16 +1,21 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You can find me on [![Twitter][1.2]][1], or on [![Linkedin][2.2]][2].
+You can find me on:
+[![Twitter][1.2]][1]
+[![Linkedin][2.2]][2]
+[![Instagram][3.2]][3]
 
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/metro/26/000000/twitter.png
 [2.2]: https://img.icons8.com/metro/26/000000/linkedin.png
+[3.2]: https://img.icons8.com/metro/26/000000/instagram-new.png
 
 <!-- Links to your social media accounts -->
 
 [1]: http://twitter.com/gustale_xx
 [2]: https://www.linkedin.com/in/gustavo-vasquez99/
+[3]: https://www.instagram.com/alex.vasqxz/
 <!--
 **alexvasqxz/alexvasqxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
