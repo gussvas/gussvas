@@ -4,7 +4,7 @@ You can find me on [![Twitter][1.2]][1], or on [![Linkedin][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: <img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
+[1.2]: https://img.icons8.com/doodle/48/000000/twitter--v1.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
