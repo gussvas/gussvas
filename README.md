@@ -9,6 +9,8 @@ is right.
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
 [![Instagram][3.2]][3] <i> Instagram </i>
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/metro/26/000000/twitter.png
