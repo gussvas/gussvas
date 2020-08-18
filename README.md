@@ -30,9 +30,9 @@ He / Him / His
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/cute-clipart/64/000000/twitter.png
-[2.2]: https://img.icons8.com/cute-clipart/64/000000/linkedin.png
-[3.2]: https://img.icons8.com/cute-clipart/64/000000/instagram-new.png
+[1.2]: https://img.icons8.com/metro/26/000000/twitter.png **|**
+[2.2]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png **|**
+[3.2]: https://img.icons8.com/material-sharp/24/000000/instagram-new.png
 
 <!-- Links to your social media accounts -->
 
