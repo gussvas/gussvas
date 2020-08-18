@@ -1,5 +1,9 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Gustavo Vasquez but everyone calls me Alex, I'm a junior year Computer Science student at the University Tec de Monterrey in Monterrey, Mexico.
+I am an eager and passionate person when it comes to technology, specially when it comes to solving today's biggest problems and fighting for what I believe
+is right.
+
 <b>You can find me on:</b> <br>
 [![Twitter][1.2]][1] <i> Twitter </i> <br>
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
