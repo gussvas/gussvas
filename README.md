@@ -1,9 +1,9 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You can find me on: <br>
-[![Twitter][1.2]][1] <br>
-[![Linkedin][2.2]][2] <br>
-[![Instagram][3.2]][3]
+<b>You can find me on:</b> <br>
+[![Twitter][1.2]][1] <i> Twitter </i> <br>
+[![Linkedin][2.2]][2] <i> Linkedln </i> <br>
+[![Instagram][3.2]][3] <i> Instagram </i>
 
 <!-- Icons -->
 
