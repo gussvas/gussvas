@@ -23,7 +23,7 @@ is right.
 [![Twitter][1.2]][1] <i> Twitter </i> **|**
 [![Linkedin][2.2]][2] <i> LinkedIn </i> **|**
 [![Instagram][3.2]][3] <i> Instagram </i> 
-
+<br>
 ### ❤️🧡💛💚💙💜 Pronouns
 ---
 He / Him / His
