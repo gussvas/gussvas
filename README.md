@@ -13,6 +13,8 @@ is right.
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
 [![Instagram][3.2]][3] <i> Instagram </i>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/metro/26/000000/twitter.png
