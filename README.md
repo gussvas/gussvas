@@ -5,6 +5,21 @@ My name is Gustavo Vasquez but everyone calls me Alex, I'm a junior year Compute
 I am an eager and passionate person when it comes to technology, specially when it comes to solving today's biggest problems and fighting for what I believe
 is right.
 
+### 👨🏼‍💻 Skills
+---
+
+- C++ 
+- Python
+- C#
+- JavaScript
+- HTML
+- CSS
+- Linux
+- MySQL
+- SQLserver
+- Docker
+- R
+- OpenCV
 
 ### 📫 You can find me on: 
 ---
@@ -13,14 +28,7 @@ is right.
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
 [![Instagram][3.2]][3] <i> Instagram </i>
 
-### 👨🏼‍💻 Skills
----
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=❤️&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQLserver-Tools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Icons -->
 
