@@ -28,8 +28,8 @@ He / Him / His
 ### 📫 You can find me on
 ---
 
-[![Twitter][1.2]][1] <i> Twitter </i> <br>
-[![Linkedin][2.2]][2] <i> Linkedln </i> <br>
+[![Twitter][1.2]][1] <i> Twitter </i> 
+[![Linkedin][2.2]][2] <i> Linkedln </i> 
 [![Instagram][3.2]][3] <i> Instagram </i>
 
 
