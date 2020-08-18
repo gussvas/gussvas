@@ -17,18 +17,16 @@ is right.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-### ❤️🧡💛💚💙💜 Pronouns
----
-He / Him / His
-
 ### 📫 You can find me on
 ---
 
-[![Twitter][1.2]][1] 
-[![Linkedin][2.2]][2] 
+[![Twitter][1.2]][1] **|**
+[![Linkedin][2.2]][2] **|**
 [![Instagram][3.2]][3]
 
-
+### ❤️🧡💛💚💙💜 Pronouns
+---
+He / Him / His
 
 <!-- Icons -->
 
