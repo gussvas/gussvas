@@ -21,7 +21,11 @@ is right.
 - R
 - OpenCV
 
-### 📫 You can find me on: 
+### ❤️🧡💛💚💙💜 Pronouns
+---
+He / Him / His
+
+### 📫 You can find me on
 ---
 
 [![Twitter][1.2]][1] <i> Twitter </i> <br>
