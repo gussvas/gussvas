@@ -1,8 +1,8 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You can find me on:
-[![Twitter][1.2]][1]
-[![Linkedin][2.2]][2]
+You can find me on: <br>
+[![Twitter][1.2]][1] <br>
+[![Linkedin][2.2]][2] <br>
 [![Instagram][3.2]][3]
 
 <!-- Icons -->
