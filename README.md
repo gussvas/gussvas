@@ -20,7 +20,7 @@ is right.
 ![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C++-Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
-![](https://img.shields.io/badge/C#-Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SQLserver-Tools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
