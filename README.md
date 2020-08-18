@@ -13,7 +13,8 @@ is right.
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
 [![Instagram][3.2]][3] <i> Instagram </i>
 
-
+### 👨🏼‍💻 Skills
+---
 
 <!-- Icons -->
 
