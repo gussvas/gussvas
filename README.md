@@ -4,10 +4,8 @@ My name is Gustavo Vasquez but everyone calls me Alex, I'm a junior year Compute
 I am an eager and passionate person when it comes to technology, specially when it comes to solving today's biggest problems and fighting for what I believe
 is right.
 
-### 📫 How to reach me: 
+<p> ### 📫 You can find me on: </p>
 
-
-<b>You can find me on:</b> <br>
 [![Twitter][1.2]][1] <i> Twitter </i> <br>
 [![Linkedin][2.2]][2] <i> Linkedln </i> <br>
 [![Instagram][3.2]][3] <i> Instagram </i>
