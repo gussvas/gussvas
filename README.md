@@ -7,10 +7,10 @@ is right.
 
 ### 👨🏼‍💻 Me
 ---
-- 🌱 I’m currently a junior year computer science student 🤣
+- 🌱 I’m currently a junior year computer science student
 - 👯 I’m looking to get an internship for summer 2021
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I do Yoga everyday and used to give classes
+- ⚡ Fun fact: I do Yoga everyday and love Fashion
 
 ### 📫 You can find me on
 ---
@@ -50,6 +50,9 @@ He / Him / His
 <a href="https://github.com/alexvasqxz/alexvasqxz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
+
+<br>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true" />
 
 <!-- Icons -->
 
