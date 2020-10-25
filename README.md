@@ -19,6 +19,8 @@ is right.
 [![Spotify](https://alexvasqxz.vercel.app/api/spotify)](https://open.spotify.com/user/rxu3r7qxxghci7j1w2tq409zv)
 <br />
 
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
 ### 📫 You can find me on
 ---
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
