@@ -15,6 +15,7 @@ is right.
 ### 🎧 Now Playing
 ---
 <br>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 [![Spotify](https://alexvasqxz.vercel.app/api/spotify)](https://open.spotify.com/user/rxu3r7qxxghci7j1w2tq409zv)
 <br />
 
