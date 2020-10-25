@@ -17,6 +17,8 @@ is right.
 <br>
 [![Spotify](https://spotify-now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rxu3r7qxxghci7j1w2tq409zv)
 
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+
 ### 📫 You can find me on
 ---
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
