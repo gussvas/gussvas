@@ -14,9 +14,8 @@ is right.
 
 ### 🎧 Now Playing
 ---
-
-<img src="https://spotify-now-playing.alexvasqxz.vercel.app/api/spotify-playing
-" alt="codeSTACKr Spotify Playing" width="350" />
+<br>
+[![Spotify](https://spotify-now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rxu3r7qxxghci7j1w2tq409zv)
 
 ### 📫 You can find me on
 ---
