@@ -48,7 +48,7 @@ He / Him / His
 ### 📈 My GitHub Stats
 ---
 
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true" />
+<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 
