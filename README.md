@@ -1,8 +1,5 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
-
-[![Spotify](https://now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
 My name is Gustavo Vasquez but everyone calls me Alex, I'm a junior year Computer Science student at the University Tec de Monterrey in Monterrey, Mexico.
 I am an eager and passionate person when it comes to technology, specially when it comes to solving today's biggest problems and fighting for what I believe
 is right.
@@ -51,9 +48,9 @@ He / Him / His
 ---
 
 <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-
+[![Spotify](https://now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
 
 <!-- Icons -->
 
