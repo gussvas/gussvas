@@ -14,7 +14,7 @@ is right.
 ### 📈 My GitHub Stats
 ---
 <a href="https://github.com/alexvasqxz/alexvasqxz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ### 📫 You can find me on
