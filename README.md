@@ -16,7 +16,7 @@ is right.
 ---
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/rxu3r7qxxghci7j1w2tq409zv)
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://now-playing-alexvasqxz.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### 📫 You can find me on
 ---
