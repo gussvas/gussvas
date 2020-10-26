@@ -55,12 +55,12 @@ He / Him / His
 <table width="100%"> 
   <tr>
   <td width="50%">
-    <img align="right" alt="Alexvasqxz' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true"/>
+    <img align="right" alt="Alexvasqxz' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true"/>
    
    </td>
   <td width="50%">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide=java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide_border=true,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
   
   </td>
   </table>
