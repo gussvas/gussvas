@@ -1,6 +1,6 @@
 ### Hi y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
-My name is Gustavo Vasquez but everyone calls me Alex, I'm a junior year Computer Science student at the University Tec de Monterrey in Monterrey, Mexico.
+My name is Gustavo Vasquez (He/Him) but everyone calls me Alex, I'm a junior year Computer Science student at the University Tec de Monterrey in Monterrey, Mexico.
 I am an eager and passionate person when it comes to technology, specially when it comes to solving today's biggest problems and fighting for what I believe
 is right.
 
@@ -45,10 +45,6 @@ is right.
 ---
 
 [![Spotify](https://now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
-### ❤️🧡💛💚💙💜 Pronouns
----
-He / Him / His
 
 ### 📈 My GitHub Stats
 ---
