@@ -8,7 +8,7 @@ is right.
 ---
 - 🌱 I’m currently a junior year computer science student
 - 👯 I’m looking to get an internship for summer 2021
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Build my path towards Data Science and network with amazing people
 - ⚡ Fun fact: I do Yoga everyday and love Fashion
 
 ### 📫 You can find me on
