@@ -35,7 +35,7 @@ is right.
 <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://csis.pace.edu/~scharff/pacemobilelab/images/github.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://i.redd.it/1lihwxjxacxy.png" />
 
