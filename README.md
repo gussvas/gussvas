@@ -58,7 +58,7 @@ is right.
    </td>
   <td width="50%">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide_border=true,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF00" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide_border=true,html&title_color=add8e6&text_color=000000&icon_color=000000&bg_color=FFFFFF00" />
   
   </td>
   </table>
