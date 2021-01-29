@@ -6,10 +6,10 @@ is right.
 
 ### 👨🏼‍💻 Me
 ---
-- 🌱 I’m currently a junior year computer science student
-- 👯 I’m looking to get an internship for summer 2021
-- 🥅 2021 Goals: Build my path towards Data Science and network with amazing people
-- ⚡ Fun fact: I do Yoga everyday and love Fashion
+- 🎓 I’m currently a junior year computer science student
+- 🔍 I’m looking to get an internship for summer 2021
+- 🎯 2021 Goals: Build my path towards Data Science and network with amazing people
+- 🧘🏼‍♂️ Fun fact: I do Yoga everyday, love traveling and Fashion
 
 ### 📫 You can find me on
 ---
