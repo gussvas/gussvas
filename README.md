@@ -7,7 +7,7 @@ is right.
 ### 👨🏼‍💻 Me
 ---
 - 🎓 I’m currently a junior year computer science student
-- 🧠 I'm part of the Microsoft Learn Student Ambassadors, the Facebook Mentorship Program and ...
+- 🧠 I'm part of the Microsoft Learn Student Ambassadors, the Facebook Mentorship Program and the Google SPS Program
 - 💼 I'm currently doing a Spring Internship at GE Power in the FinanceIT team
 - 🔍 I’m looking to get an internship for summer 2021
 - 🎯 2021 Goals: Build my path towards Data Science and network with amazing people
