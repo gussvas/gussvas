@@ -15,9 +15,12 @@ is right.
 
 ### 📫 You can find me on
 ---
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
+[<img align="left" alt"codeSTACKr | email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/552/552486.svg?token=exp=1614965540~hmac=81ceaaa1bc14fe773683d58bde7ddb4e" />[email]
+
 
 <br />
 <br />
@@ -73,12 +76,14 @@ is right.
 [1.2]: https://img.icons8.com/metro/26/000000/twitter.png 
 [2.2]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png 
 [3.2]: https://img.icons8.com/material-sharp/24/000000/instagram-new.png
+[4.2]: https://www.flaticon.com/svg/vstatic/svg/552/552486.svg?token=exp=1614965540~hmac=81ceaaa1bc14fe773683d58bde7ddb4e
 
 <!-- Links to your social media accounts -->
 
 [twitter]: http://twitter.com/gustale_xx
 [instagram]: https://www.instagram.com/alex.vasqxz/
 [linkedin]: https://www.linkedin.com/in/gustavo-vasquez99/
+[email]: mailto:gustavovasquez99@icloud.com
 <!--
 **alexvasqxz/alexvasqxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
