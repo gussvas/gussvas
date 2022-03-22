@@ -48,25 +48,12 @@ is right.
 <br />
 <br />
 
-### 🎧 Listening to
----
-
-[![Spotify](https://now-playing.alexvasqxz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
 ### 📈 My GitHub Stats
 ---
 
 <table width="100%"> 
-  <tr>
-  <td width="50%">
-    <img align="right" alt="Alexvasqxz' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexvasqxz&show_icons=true&hide_border=true,html&title_color=add8e6&text_color=add8e6&icon_color=add8e6&bg_color=FFFFFF00" />
-   
-   </td>
-  <td width="50%">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide_border=true,html&title_color=add8e6&text_color=add8e6&icon_color=add8e6&bg_color=FFFFFF00" />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvasqxz&hide_border=true,html&title_color=add8e6&text_color=add8e6&icon_color=add8e6&bg_color=FFFFFF00" />
-  
-  </td>
   </table>
 
 
