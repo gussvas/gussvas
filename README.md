@@ -15,7 +15,7 @@ is right.
 ### 📫 You can find me on
 ---
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" />][email]
