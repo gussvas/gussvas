@@ -8,9 +8,8 @@ is right.
 ---
 - 🎓 I’m currently a junior year computer science student
 - 🧠 I'm part of the Microsoft Learn Student Ambassadors, the Facebook Mentorship Program and the Google SPS Program
-- 💼 I'm currently doing a Fall Internship at Lyft as a Software Engineer!
-- 🔍 I’m looking to get an internship for Summer 2022
-- 🎯 2021 Goals: Build my path towards Data Science and network with amazing people
+- 💼 I'm currently doing an Internship at Amazon as a Business Analyst!
+- 🎯 2022 Goals: Build my path towards Data Science and apply for my Master's Degree Program
 - 🧘🏼‍♂️ Fun fact: I do Yoga everyday, love traveling and Fashion
 
 ### 📫 You can find me on
