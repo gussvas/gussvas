@@ -2,7 +2,7 @@
 ---
 As a tech enthusiast and advocate for creating social impact, I am driven to make a difference through technology. My experiences at Lyft, Meta, and Amazon have allowed me to hone my skills in software and data, where I have excelled in identifying business opportunities and impacting people. Beyond my professional endeavors, I have demonstrated leadership through my involvement in various student organizations, including serving as an ambassador for Microsoft and Out for Undergrad, as well as being a part of the United Nations chapter. I am committed to using my technical expertise and leadership skills to make a meaningful impact in the world.
 
-### 💻 Languages and Tools
+### 💻 Skills
 ---
 
 <img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
